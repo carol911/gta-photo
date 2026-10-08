@@ -1,0 +1,13 @@
+interface:
+  display_name: gta-photo
+  short_description: 照片变16:9横屏GTA风格场景，保留或选择玩家，搭配经典HUD，输出上下对照图
+  default_prompt: 使用 $gta-photo 生成16:9现代GTA截图，中央显著焦点人物才作为原主角，其他保留为路人；无原主角默认新增女性，可写主角男、主角女或无人（保留路人、不添加或转换玩家），搭配经典HUD并输出上下对照。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

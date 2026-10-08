@@ -1,0 +1,599 @@
+{
+  "source_page": "https://www.gtabase.com/gta-san-andreas/weapons/",
+  "retrieved_date": "2026-10-08",
+  "provenance": "Third-party GTABase-hosted GTA San Andreas item graphics; not self-authored or an official Rockstar distribution. Original downloaded bytes retained.",
+  "aliases": {
+    "pistol": "pistol-9mm",
+    "flowers": "flowers"
+  },
+  "items": [
+    {
+      "id": "fist",
+      "name_en": "Fist",
+      "name_zh": "空手拳头",
+      "category": "hand",
+      "asset": "assets/gtabase-equipment/fist.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/fist.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_fist.webp",
+      "sha256": "63099b680f855aa7e2c977aabf79f4990be967ff2c0c0631532e30743bcc64a2",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "brass-knuckles",
+      "name_en": "Brass Knuckles",
+      "name_zh": "指虎",
+      "category": "hand",
+      "asset": "assets/gtabase-equipment/brass-knuckles.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/brass-knuckles.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_brass-knuckles.webp",
+      "sha256": "d1b78f2e5d70bfcfa593dc42777b2812956d7e23fca066b5c2118a75463eda20",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "baseball-bat",
+      "name_en": "Baseball Bat",
+      "name_zh": "棒球棍",
+      "category": "melee",
+      "asset": "assets/gtabase-equipment/baseball-bat.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/baseball-bat.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_baseball-bat.webp",
+      "sha256": "ca1e437a06bdd178386357d1ec26d4c9fc2ef6897b81c20130e286e734e011b8",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "chainsaw",
+      "name_en": "Chainsaw",
+      "name_zh": "电锯",
+      "category": "melee",
+      "asset": "assets/gtabase-equipment/chainsaw.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/chainsaw.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_chainsaw.webp",
+      "sha256": "2b3d7f9e1f9d0d14f9f14d2f482a7a18e6420f84f7a570a55797e815cb37c721",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "golf-club",
+      "name_en": "Golf Club",
+      "name_zh": "高尔夫球杆",
+      "category": "melee",
+      "asset": "assets/gtabase-equipment/golf-club.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/golf-club.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_golf-club.webp",
+      "sha256": "da644d0d44d9cca4883c139650f12db298c29a57e498626a55b821601b18461b",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "katana",
+      "name_en": "Katana",
+      "name_zh": "武士刀",
+      "category": "melee",
+      "asset": "assets/gtabase-equipment/katana.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/katana.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_katana.webp",
+      "sha256": "01d16b47c1cfb15dd206cc2f078360e62d30afd14cc25ed608f718fceca76550",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "knife",
+      "name_en": "Knife",
+      "name_zh": "匕首",
+      "category": "melee",
+      "asset": "assets/gtabase-equipment/knife.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/knife.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_knife.webp",
+      "sha256": "702cbd893613a9c56e7cde854c5e63d195af57daa905504d7ebdf432af37126f",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "nightstick",
+      "name_en": "Nightstick",
+      "name_zh": "警棍",
+      "category": "melee",
+      "asset": "assets/gtabase-equipment/nightstick.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/nightstick.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_nightstick.webp",
+      "sha256": "3470ef54ea00da30ed9b0dea8b3d866aa926b9abd79293958be29cbcf01b95e9",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "pool-cue",
+      "name_en": "Pool Cue",
+      "name_zh": "台球杆",
+      "category": "melee",
+      "asset": "assets/gtabase-equipment/pool-cue.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/pool-cue.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_pool-cue.webp",
+      "sha256": "659e7883ed997b588e3a1c57b32b6a97dc798faae94eb07bf120ea0623301788",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "shovel",
+      "name_en": "Shovel",
+      "name_zh": "铁铲",
+      "category": "melee",
+      "asset": "assets/gtabase-equipment/shovel.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/shovel.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_shovel.webp",
+      "sha256": "1df0e36467dec7d757bedfcd99f08a6362d403deb5801c1c542aefa6873b13f6",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "pistol-9mm",
+      "name_en": "Pistol (9mm)",
+      "name_zh": "9毫米手枪",
+      "category": "handgun",
+      "asset": "assets/gtabase-equipment/pistol-9mm.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/pistol-9mm.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_pistol-9mm.webp",
+      "sha256": "aa0baa37bad37dc51440b8f042ee00249e6594d402b78cbd8d661b12b8a127c9",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "silenced-pistol-9mm",
+      "name_en": "Silenced Pistol (9mm)",
+      "name_zh": "消音手枪",
+      "category": "handgun",
+      "asset": "assets/gtabase-equipment/silenced-pistol-9mm.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/silenced-pistol-9mm.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_silenced-pistol-9mm.webp",
+      "sha256": "a30e0769b2da0a61aeddb6f0b7bda40c6e15b259990604ab319ebbfbd4b5b714",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "desert-eagle",
+      "name_en": "Desert Eagle",
+      "name_zh": "沙漠之鹰",
+      "category": "handgun",
+      "asset": "assets/gtabase-equipment/desert-eagle.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/desert-eagle.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_desert-eagle.webp",
+      "sha256": "bb274f3fc87497d960793b17d28691695cab880cf72a449f13475468c0a86c7b",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "shotgun",
+      "name_en": "Shotgun",
+      "name_zh": "泵动霰弹枪",
+      "category": "shotgun",
+      "asset": "assets/gtabase-equipment/shotgun.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/shotgun.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_shotgun.webp",
+      "sha256": "913e3bc2e8f3b903c660a918bf3978336a7bb7a39c071520184765eb0885b227",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "sawn-off-shotgun",
+      "name_en": "Sawn-Off Shotgun",
+      "name_zh": "短管霰弹枪",
+      "category": "shotgun",
+      "asset": "assets/gtabase-equipment/sawn-off-shotgun.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/sawn-off-shotgun.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_sawn-off-shotgun.webp",
+      "sha256": "6053fd43a8d7021bfde0afafa1b627aa51149caad7da495280cc6bb46d665529",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "combat-shotgun",
+      "name_en": "Combat Shotgun",
+      "name_zh": "战斗霰弹枪",
+      "category": "shotgun",
+      "asset": "assets/gtabase-equipment/combat-shotgun.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/combat-shotgun.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_combat-shotgun.webp",
+      "sha256": "e7d3bcdf24c8392aa379064a7552fc574715932aecac55046e9b23cec7761738",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "micro-smg",
+      "name_en": "Micro SMG",
+      "name_zh": "微型冲锋枪",
+      "category": "smg",
+      "asset": "assets/gtabase-equipment/micro-smg.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/micro-smg.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_micro-smg.webp",
+      "sha256": "6fb0a802ea1fdc0eb179f56931d2c6938c25e3328db6531e11d30be276a972e0",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "smg",
+      "name_en": "SMG",
+      "name_zh": "冲锋枪",
+      "category": "smg",
+      "asset": "assets/gtabase-equipment/smg.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/smg.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_smg.webp",
+      "sha256": "29b1b59b2e66fc4d03c354d248de90530d814846d91265b070f92cd95ea83ea7",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "tec-9",
+      "name_en": "Tec-9",
+      "name_zh": "Tec-9冲锋手枪",
+      "category": "smg",
+      "asset": "assets/gtabase-equipment/tec-9.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/tec-9.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_tec-9.webp",
+      "sha256": "87c66e38c993dd4252a7e712315fada1ba391b67b77a553f196656d06e6854f2",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "ak-47",
+      "name_en": "AK-47",
+      "name_zh": "AK-47",
+      "category": "assault-rifle",
+      "asset": "assets/gtabase-equipment/ak-47.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/ak-47.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_ak-47.webp",
+      "sha256": "03302e1f2e15ece021ef8a84d0ab19930aafc9253e84a502cdd37d94f88ce5c4",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "m4",
+      "name_en": "M4",
+      "name_zh": "M4",
+      "category": "assault-rifle",
+      "asset": "assets/gtabase-equipment/m4.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/m4.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_m4.webp",
+      "sha256": "7caf539d0ad02153c39ed05115cccddde902bd1277275dd342dcddce54716e6d",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "rifle",
+      "name_en": "Rifle (Country Rifle)",
+      "name_zh": "乡村步枪",
+      "category": "rifle",
+      "asset": "assets/gtabase-equipment/rifle.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/rifle.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_rifle.webp",
+      "sha256": "091511549078afb26924ce787cc0deb707ef945b83e9c2987546e8bc24890049",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "sniper-rifle",
+      "name_en": "Sniper Rifle",
+      "name_zh": "狙击步枪",
+      "category": "rifle",
+      "asset": "assets/gtabase-equipment/sniper-rifle.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/sniper-rifle.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_sniper-rifle.webp",
+      "sha256": "608148b74394ca6427fcbbcb887e4fde9df1e348e07231f5cb84712769b6b98f",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "flamethrower",
+      "name_en": "Flamethrower",
+      "name_zh": "喷火器",
+      "category": "heavy",
+      "asset": "assets/gtabase-equipment/flamethrower.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/flamethrower.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_flamethrower.webp",
+      "sha256": "9b5820adad05c53d10b9b7d129ba318a6f1788d6316896036351a6f4d3603277",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "minigun",
+      "name_en": "Minigun",
+      "name_zh": "转管机枪",
+      "category": "heavy",
+      "asset": "assets/gtabase-equipment/minigun.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/minigun.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_minigun.webp",
+      "sha256": "61d067571d2a9a52ec109d6cc9cde781232bb72cca44fbe51af2c51661c98af1",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "rocket-launcher",
+      "name_en": "RPG (Rocket Launcher)",
+      "name_zh": "火箭筒",
+      "category": "heavy",
+      "asset": "assets/gtabase-equipment/rocket-launcher.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/rocket-launcher.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_rocket-launcher.webp",
+      "sha256": "38dc54614b2b29e9086e02bef54224abde70a8cfad613f63d1af134ac5871b07",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "heat-seeking-rocket-launcher",
+      "name_en": "Heat-Seeking Rocket Launcher",
+      "name_zh": "热追踪火箭筒",
+      "category": "heavy",
+      "asset": "assets/gtabase-equipment/heat-seeking-rocket-launcher.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/heat-seeking-rocket-launcher.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_heat-seeking-rocket-launcher.webp",
+      "sha256": "6ebbae0583f2ba82c80de34e14ec219c9c39f253fcc34d8c1dcf827f335a456a",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "grenade",
+      "name_en": "Grenade",
+      "name_zh": "手榴弹",
+      "category": "thrown",
+      "asset": "assets/gtabase-equipment/grenade.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/grenade.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_grenade.webp",
+      "sha256": "1ea282949fb10606f445f0f4af837730e6521fbd33813d27ef6cf38c71b56c11",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "molotov-cocktail",
+      "name_en": "Molotov Cocktail",
+      "name_zh": "燃烧瓶",
+      "category": "thrown",
+      "asset": "assets/gtabase-equipment/molotov-cocktail.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/molotov-cocktail.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_molotov-cocktail.webp",
+      "sha256": "719328827d428ae58646b91536f784f3f6fc39f6a1ad1a861e45aafb64d4b32f",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "remote-explosives",
+      "name_en": "Remote Explosives (Satchel Charges)",
+      "name_zh": "遥控炸药",
+      "category": "thrown",
+      "asset": "assets/gtabase-equipment/remote-explosives.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/remote-explosives.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_remote-explosives.webp",
+      "sha256": "8fd9817a5bad4dbdcfa68da6e4bd1c182aee03819207fecb2f262024a75d02b3",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "tear-gas",
+      "name_en": "Tear Gas",
+      "name_zh": "催泪弹",
+      "category": "thrown",
+      "asset": "assets/gtabase-equipment/tear-gas.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/tear-gas.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_tear-gas.webp",
+      "sha256": "a17b890f5cc504610e70c6280099f97daaf09899b6be2a736e9419ed82ceb9f5",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "fire-extinguisher",
+      "name_en": "Fire Extinguisher",
+      "name_zh": "灭火器",
+      "category": "tool",
+      "asset": "assets/gtabase-equipment/fire-extinguisher.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/fire-extinguisher.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_fire-extinguisher.webp",
+      "sha256": "1a052eef0d180763cc184e409de015cd3940a1402a712c90a8adf457f84f67d4",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "spray-can",
+      "name_en": "Spray Can",
+      "name_zh": "喷漆罐",
+      "category": "tool",
+      "asset": "assets/gtabase-equipment/spray-can.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/spray-can.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_spray-can.webp",
+      "sha256": "3244fbba2a364896a3ed2055106d885532237b68140495fc91b926e0189bcaa6",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "camera",
+      "name_en": "Camera",
+      "name_zh": "相机",
+      "category": "tool",
+      "asset": "assets/gtabase-equipment/camera.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/camera.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_camera.webp",
+      "sha256": "af1a049f1da68591fbb3c52bbe3e487b9eefb849bcfab28f2203692fb007d675",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "cane",
+      "name_en": "Cane",
+      "name_zh": "手杖",
+      "category": "gift",
+      "asset": "assets/gtabase-equipment/cane.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/cane.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_cane.webp",
+      "sha256": "767f77bc3060118134df2f67f5936227d9f1704a68f1fc6cc60e2f31847ad0fc",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "flowers",
+      "name_en": "Flowers",
+      "name_zh": "花束",
+      "category": "gift",
+      "asset": "assets/gtabase-equipment/flowers.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/flowers.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_flowers.webp",
+      "sha256": "4a6bcb612d537c9212a1c794f8542e5efec6c25a4d6313978d01c91034b0807a",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "dildo",
+      "name_en": "Dildo",
+      "name_zh": "假阳具",
+      "category": "gift",
+      "asset": "assets/gtabase-equipment/dildo.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/dildo.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_dildo.webp",
+      "sha256": "eac2b6e7c953593b42697a2381a0bb949f693e6d71a1a6a5daa5094c9ba19871",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "vibrator",
+      "name_en": "Vibrator",
+      "name_zh": "振动棒",
+      "category": "gift",
+      "asset": "assets/gtabase-equipment/vibrator.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/vibrator.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_vibrator.webp",
+      "sha256": "6f8bcbc886c69aeb02448e8bfc81895a3e39f23c6ce60d5701c9be7c0170c130",
+      "size": [
+        185,
+        185
+      ]
+    },
+    {
+      "id": "thermal-vision",
+      "name_en": "Thermal Googles",
+      "name_zh": "热成像镜",
+      "category": "apparel",
+      "asset": "assets/gtabase-equipment/thermal-vision.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/thermal-vision.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_thermal-vision.webp",
+      "sha256": "084c2586ea198e51bd7564a6683d2adcc871f9c3a8b6800107474e6a8b78e912",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "night-vision",
+      "name_en": "Night Vision Googles",
+      "name_zh": "夜视镜",
+      "category": "apparel",
+      "asset": "assets/gtabase-equipment/night-vision.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/night-vision.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_night-vision.webp",
+      "sha256": "084c2586ea198e51bd7564a6683d2adcc871f9c3a8b6800107474e6a8b78e912",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "parachute",
+      "name_en": "Parachute",
+      "name_zh": "降落伞",
+      "category": "apparel",
+      "asset": "assets/gtabase-equipment/parachute.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/parachute.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_parachute.webp",
+      "sha256": "7bf5d11d872705221547f9a4466b4c2b97a07b31eaa9fc0356d1c4d927ab5113",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "detonator",
+      "name_en": "Remote Detonator",
+      "name_zh": "遥控引爆器",
+      "category": "special",
+      "asset": "assets/gtabase-equipment/detonator.png",
+      "source_image_url": "https://www.gtabase.com/images/gta-san-andreas/weapons/detonator.png",
+      "listed_image_url": "https://www.gtabase.com/images/jch-optimize/ng/images_gta-san-andreas_weapons_detonator.webp",
+      "sha256": "5121a700566d37175d55ad424c6978a6179976a86ce1e80044be52b3df14a908",
+      "size": [
+        185,
+        185
+      ]
+    }
+  ]
+}
