@@ -1,4 +1,4 @@
-<img width="1672" height="1882" alt="下载 (5)" src="https://github.com/user-attachments/assets/c216a3b7-29c9-4454-9ab1-fbf720214177" /># gta-photo
+## gta-photo
 
 把旅行、街道、建筑、室内和风景照片，转换成具有现代 GTA 游戏渲染感的场景，搭配《GTA：圣安地列斯》经典主机版布局 HUD。
 
